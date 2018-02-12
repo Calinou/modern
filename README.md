@@ -14,10 +14,12 @@ A 32× texture pack for Minetest.
 You can either:
 
 - clone this repository in the `textures/` directory of your Minetest user data directory,
-- download it as a .zip file, extract it in the `textures/` directory of your Minetest user data directory.
+- or [download a ZIP archive](https://github.com/Calinou/modern/archive/master.zip)
+  then extract it in the `textures/` directory of your Minetest user data directory.
 
 ## License
 
-Copyright (c) 2016 Hugo Locurcio and contributors
+Copyright © 2016-2018 Hugo Locurcio and contributors
 
-CC0, see `LICENSE.md` for details.
+Files in this repository are licensed under CC0 1.0 universal,
+see [LICENSE.md](LICENSE.md) for more information.
